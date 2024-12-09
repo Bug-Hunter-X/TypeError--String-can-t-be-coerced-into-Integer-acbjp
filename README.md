@@ -1,0 +1,1 @@
+This repository demonstrates a common Ruby error: `TypeError: String can't be coerced into Integer`.  The `bug.rb` file shows the erroneous code, attempting to add an integer to a string.  The `bugSolution.rb` file provides a solution using type checking to prevent this error.
